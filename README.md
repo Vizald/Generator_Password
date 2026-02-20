@@ -61,11 +61,3 @@
 Готово.
 ```
 
-## Структура проекта (кратко)
-
-```text
-Generator_Password/
-├── secure_password_generator.py  # Основной CLI-скрипт
-├── README.md                     # Описание проекта и инструкции
-└── .gitignore                    # Исключения для Git
-```
